@@ -4,18 +4,16 @@
 </div>
 
 - 🔭 I'm developer self-taught
-- 💬 Exploring systems and networking.
+- 🐧  Exploring systems and networking. 
 
 
 ```
 ⚡ Hobbies:
-➥ Hardware
-➥ Arduino
-➥ Swimming
-➥ Rock and roll
+➥ Hardware 🔨
+➥ Swimming 🏊
+➥ Rock and roll 🎸
 ```
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@condorcoders)
 [![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/layla-gomez)
 
 
