@@ -10,7 +10,6 @@
 ```
 ⚡ Hobbies:
 ➥ Hardware 🔨
-➥ Swimming 🏊
 ➥ Rock and roll 🎸
 ```
 
